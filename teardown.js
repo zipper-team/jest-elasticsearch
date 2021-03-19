@@ -1,4 +1,4 @@
-const {stop} = require('@shelf/elasticsearch-local');
+const {stop} = require('zipper-elasticsearch-local');
 
 module.exports = async function stopES() {
   await stop();
