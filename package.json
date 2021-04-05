@@ -49,7 +49,7 @@
     "preset": "./jest-preset.js"
   },
   "dependencies": {
-    "zipper-elasticsearch-local": "1.0.1",
+    "zipper-elasticsearch-local": "1.0.2",
     "cwd": "0.10.0"
   },
   "devDependencies": {
