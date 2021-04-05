@@ -1,6 +1,6 @@
 {
   "name": "zipper-jest-elasticsearch",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Run your tests using jest & elasticsearch-local",
   "keywords": [
     "jest",
@@ -49,7 +49,7 @@
     "preset": "./jest-preset.js"
   },
   "dependencies": {
-    "zipper-elasticsearch-local": "1.0.0",
+    "zipper-elasticsearch-local": "1.0.1",
     "cwd": "0.10.0"
   },
   "devDependencies": {
